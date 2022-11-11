@@ -397,7 +397,7 @@
     "eslint": "^7.15.0",
     "eslint-config-prettier": "^7.0.0",
     "glob": "^7.1.6",
-    "mocha": "^8.2.1",
+    "mocha": "^10.1.0",
     "remark": "^12.0.0",
     "remark-package-dependencies": "^1.1.0",
     "sinon": "^9.2.1",
